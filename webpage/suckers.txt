@@ -1,0 +1,4 @@
+Said;mc;123;MasterCard
+AKka;me;344;Visa
+AKka;mc;153;Visa
+AKka;mc;;Visa
